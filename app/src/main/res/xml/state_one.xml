@@ -1,0 +1,10 @@
+<ConstraintLayoutStates
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <State
+        android:id="@+id/one"
+        app:constraints="@layout/layout_01"/>
+    <State
+        android:id="@+id/six"
+        app:constraints="@layout/layout_02"/>
+</ConstraintLayoutStates>
